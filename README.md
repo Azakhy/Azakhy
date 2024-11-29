@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+MY name is Ivan Benito Hernandez.
+I'm an computer sciencce student at Facultad de Ciencias (UNAM) and i enjoy fixing bugs
 <!--
 **Azakhy/Azakhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
