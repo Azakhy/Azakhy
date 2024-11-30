@@ -1,6 +1,8 @@
 ## Hi there 👋
-MY name is Ivan Benito Hernandez.
-I'm a computer science student at Facultad de Ciencias (UNAM) and i enjoy fixing bugs
+My name is Ivan Benito Hernandez.
+
+I'm a computer science student at Facultad de Ciencias (UNAM) and i am passionate about the world of cybersecurity and i enjoy fixing bug.
+I have experience with languages ​​such as C, Java and Python.
 <!--
 **Azakhy/Azakhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
